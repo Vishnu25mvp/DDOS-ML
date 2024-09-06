@@ -1,0 +1,2 @@
+﻿ip.src,ip.dst,tcp.srcport,tcp.dstport,ip.proto,frame.len,tcp.flags.syn,tcp.flags.reset,tcp.flags.push,tcp.flags.ack,ip.flags.mf,ip.flags.df,ip.flags.rb,tcp.seq,tcp.ack,Packets,Bytes,Tx Packets,Tx Bytes,Rx Packets,Rx Bytes
+192.168.17.1,192.168.23.2,7718,8000,6,54,0,0,0,1,0,0,0,1,1,12,648,6,324,6,324
